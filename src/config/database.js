@@ -1,3 +1,5 @@
+const auth = require("./auth");
+
 module.exports = {
   dialect: "mysql",
   host: "promebackend.mysql.dbaas.com.br",
