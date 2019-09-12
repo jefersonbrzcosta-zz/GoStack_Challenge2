@@ -1,5 +1,4 @@
 export default {
-  user: "promebackend",
-  pass: "goBarber3052",
-  database: "promebackend"
+  secret: "f29618255c309de4469993cce24286ea",
+  expiresIn: "7d"
 };
