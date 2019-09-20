@@ -1,8 +1,8 @@
 module.exports = {
   dialect: "mysql",
-  host: "promebackend.mysql.dbaas.com.br",
+  host: "*******",
   username: "promebackend",
-  password: "goBarber3052!",
+  password: "*********",
   database: "promebackend",
   define: {
     timestamps: true,
