@@ -26,6 +26,7 @@ routes.get("/providers", providerController.index);
 
 routes.put("/users", UserController.update);
 
+routes.get("/appointments", AppointmentController.index);
 routes.post("/appointments", AppointmentController.store);
 
 export default routes;
